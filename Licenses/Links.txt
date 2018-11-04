@@ -1,0 +1,2 @@
+For BotW-aampTool, see: https://github.com/Zer0XoL/BotW-aampTool
+For tinyxml2, see: https://github.com/leethomason/tinyxml2
